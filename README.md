@@ -1,5 +1,4 @@
-# DevSecOps-Pipeline-Hadolint-Dockle-Command
-## Installation de Hadolint ##
+# Installation de Hadolint #
 # Téléchargement de la dernière version de Hadolint
 curl -fsSL -o hadolint https://github.com/hadolint/hadolint/releases/latest/download/hadolint-Linux-x86_64
 # Déplacement de hadolint vers le répertoire bin
